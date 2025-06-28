@@ -14,7 +14,7 @@ module.exports = { session: process.env.SESSION_ID || 'ezra',LUCKY-XFORCE••<
     NUMERO_OWNER : process.env.NUMERO_OWNER || "254732849780",
     DEV : process.env.DEV || "FrediEzra Tz",
               
-    AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "non",
+    AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "no",
     AUTO_DOWNLOAD_STATUS: process.env.AUTO_DOWNLOAD_STATUS || 'non',
     AUTO_REACT: process.env.AUTO_REACTION || "non",  
      AUTO_SAVE_CONTACTS : process.env.AUTO_SAVE_CONTACTS || 'no',
@@ -22,7 +22,7 @@ module.exports = { session: process.env.SESSION_ID || 'ezra',LUCKY-XFORCE••<
     URL2: process.env.URL2 || "https://files.catbox.moe/3o37c5.jpeg",
     AUTO_REACT_STATUS: process.env.AUTO_REACT_STATUS || 'non',              
     CHAT_BOT: process.env.CHAT_BOT || "no",              
-    AUTO_READ_MESSAGES: process.env.AUTO_READ_MESSAGES || "yes",
+    AUTO_READ_MESSAGES: process.env.AUTO_READ_MESSAGES || "no",
     AUTO_BLOCK: process.env.AUTO_BLOCK || 'no', 
     GCF: process.env.GROUP_HANDLE || 'no', 
     AUTO_REPLY : process.env.AUTO_REPLY || "no", 
